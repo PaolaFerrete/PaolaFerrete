@@ -5,10 +5,10 @@
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love The Big Bang Theory !!!
 
-<a href="https://github.com/PaolaFerrete/Readme">
+<a href="https://github.com/PaolaFerrete">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=PaolaFerrete&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
-<a href="https://github.com/PaolaFerrete/Readme">
+<a href="https://github.com/PaolaFerrete">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
