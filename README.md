@@ -5,7 +5,7 @@
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love The Big Bang Theory !!!
 
-<a href="https://github.com/anuraghazra/github-readme-stats"
+<a href="https://github.com/PaolaFerrete">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=PaolaFerrete&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
