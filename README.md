@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: paola.ferrete@gmail.com
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love The Big Bang Theory !!!
